@@ -19,8 +19,9 @@
         <ul>
           <li><strong>Lorenzo Pradal Malosso</strong> - Electronics Engineer</li>
           <li><strong>Clara Gonzaga Schiavon</strong> - Mechanical Engineer</li>
-          <li><strong>Otávio Manderchiche</strong> - Programmer</li>
+          <li><strong>Matheus Alves Sigrist</strong> - Mentor</li>
           <li><strong>Julia Guerra Menoni</strong> - Designer</li>
+          <li><strong>Otávio Manderchiche</strong> - Programmer</li>
         </ul>
       </td>
     </tr>

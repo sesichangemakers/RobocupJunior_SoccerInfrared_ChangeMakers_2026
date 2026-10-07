@@ -3,7 +3,7 @@
 <p>Main directory for the SESI ChangeMakers team's 2026 season in the RoboCupJunior Soccer Infrared category.</p>
 
 <div align="center">
-  <img src="../images/2026_Team.jpeg" alt="2026 Team" title="2026 Team" width="600px">
+  <img src="../images/2026_FullTeam.jpeg" alt="2026 Team" title="2026 Team" width="600px">
 </div>
 
 <h2>Conteúdo disponível</h2>

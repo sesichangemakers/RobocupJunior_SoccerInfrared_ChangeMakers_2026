@@ -43,9 +43,9 @@
 <h2>Repository Structure</h2>
 <ul>
   <li><a href="Soccer_Infrared_2026/Begginer's_Guide">Begginers's Guide</a></li>
-  <li><a href="Soccer_Infrared_2026/Documentation">BOM - Bill of Materials and Poster</a></li>
-  <li><a href="Soccer_Infrared_2026/Hardware">3D Models and Electronics</a></li>
-  <li><a href="Soccer_Infrared_2026/Software">Programming Codes</a></li>
+  <li><a href="Soccer_Infrared_2026/Documentation">Documentation - BOM & Poster</a></li>
+  <li><a href="Soccer_Infrared_2026/Hardware">Hardware - 3D Models and Electronics</a></li>
+  <li><a href="Soccer_Infrared_2026/Software">Software - Programming Codes</a></li>
 </ul>
 
 <hr>

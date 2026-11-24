@@ -13,7 +13,7 @@
   <table>
     <tr>
       <td>
-        <img src="images/Foto_GitNacional alt="Team photo" title="Team photo" width="300px">
+        <img src="images/Foto_GitNacional.jpeg" alt="Team photo" title="Team photo" width="300px">
       </td>
       <td style="text-align: center;">
         <ul>

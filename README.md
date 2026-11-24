@@ -13,12 +13,12 @@
   <table>
     <tr>
       <td>
-        <img src="images/2026_FullTeam.jpeg" alt="Team photo" title="Team photo" width="300px">
+        <img src="downloads/Foto_GitNacional alt="Team photo" title="Team photo" width="300px">
       </td>
       <td style="text-align: center;">
         <ul>
-          <li><strong>Lorenzo Pradal Malosso</strong> - Electronics Engineer</li>
-          <li><strong>Clara Gonzaga Schiavon</strong> - Mechanical Engineer</li>
+          <li><strong>Clara Vitorino/strong> - Electronics Engineer</li>
+          <li><strong>Eduardo Oki</strong> - Mechanical Engineer</li>
           <li><strong>Matheus Alves Sigrist</strong> - Mentor</li>
           <li><strong>Julia Guerra Menoni</strong> - Designer</li>
           <li><strong>Otávio Manderchiche</strong> - Programmer</li>
